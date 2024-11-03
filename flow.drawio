@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="yoE3DGv-jh15_YVn8v0x" name="Page-1">
+        <mxGraphModel dx="2213" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Main" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="300" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Nutrients DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="-370" y="310" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="AI" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+                    <mxGeometry x="-200" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="310" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Personal&lt;br&gt;Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+                    <mxGeometry x="431" y="310" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Iot Device" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="571" y="290" width="120" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Static&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-370" y="410" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Realtime" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Time based(on command)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="401" y="410" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Time based(on command)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="420" width="120" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
